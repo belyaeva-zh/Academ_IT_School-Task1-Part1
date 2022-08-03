@@ -1,1 +1,2 @@
 Changes to be committed 1
+Changes are made from GitHub
